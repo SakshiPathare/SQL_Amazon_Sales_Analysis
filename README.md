@@ -19,7 +19,7 @@
     - Analyze different product lines to identify:
         - Best-performing product lines.
         - Underperforming product lines that require improvement.
-
+        
 - Sales Analysis
     - Examine sales trends to:
         - Measure the effectiveness of sales strategies.
@@ -33,9 +33,9 @@
 ## Approach Used
 - Data Wrangling
     - Inspected the dataset for missing or NULL values.
-- Steps:
-    - Built a database and inserted the dataset into a table.
-    - Filtered and validated the data.
+   - Steps:
+      - Built a database and inserted the dataset into a table.
+      - Filtered and validated the data.
 - Feature Engineering
     - Generated new columns to gain additional insights:
         - timeofday: Categorized sales as Morning, Afternoon, or Evening.
