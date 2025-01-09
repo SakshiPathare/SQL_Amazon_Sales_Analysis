@@ -1,4 +1,4 @@
-# SQL_Amazon_Sales_Analysis
+# SQL Amazon Sales Analysis Project
 
 ## Aim: Aim of this project is to gain insight into the sales data of Amazon to understand the different factors that affect sales of the different branches.
 
