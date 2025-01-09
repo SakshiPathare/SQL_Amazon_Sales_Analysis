@@ -8,8 +8,7 @@
 
 ## Dataset
 - Records: 1000 rows
-- Attributes: 17 attributes like, invoice_id, branch, city, customer_type, gender, product_line, unit_price, quantity, vat, total, date, time, payment, cogs, gross_margin_percentage,       
-  gross_income, rating
+- Attributes: 17 attributes like, invoice_id, branch, city, customer_type, gender, product_line, unit_price, quantity, vat, total, date, time, payment, cogs, gross_margin_percentage,       gross_income, rating
 
 ## Tools and Technologies
 - Language: SQL
